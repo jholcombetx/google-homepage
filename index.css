@@ -1,0 +1,38 @@
+
+/*The Navigation Bar*/
+
+#nav{
+	font-size: 10px;
+	font-family: Arial sans-serif;
+	height: 25px;
+	width:100%;
+	text-align: right;
+	margin: 0px;
+	padding: 5px;
+
+}
+
+#signin{
+	background-color: blue;
+	color:white;
+}
+
+
+/*The Main Google Logo */
+
+#logo{
+	font-family:Arial sans-serif;
+	font-size:25px;
+}
+#letter_one #letter_four{
+	color:blue;
+}
+#letter_two #letter_six{
+	color:red;
+}
+#letter_three{
+	color:yellow;
+}
+#letter_five{
+	color:green;
+}
